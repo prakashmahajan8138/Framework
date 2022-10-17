@@ -18,6 +18,7 @@ public class TagName {
 		driver.findElement(By.className(""));
 		driver.findElement(By.linkText(""));
 		By all = By.cssSelector("");
+		System.out.println("prakash");
 		}
 
 }
