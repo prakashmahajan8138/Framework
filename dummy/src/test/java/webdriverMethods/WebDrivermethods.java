@@ -72,6 +72,8 @@ public class WebDrivermethods {
 	    driver.quit();
 	    
 	   Dimension size = driver.manage().window().getSize();
+		
+		System.out.println("done successfully")
 	    
 	    
 	    
